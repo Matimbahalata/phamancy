@@ -1,1 +1,21 @@
 
+<idoctype html>
+<html>
+<head>
+<tittle>phamancy system </tittle>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
